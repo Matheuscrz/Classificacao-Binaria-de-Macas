@@ -11,7 +11,7 @@ Projeto final da disciplina de Processamento Digital de Imagens.
 
 Assista à apresentação do projeto no YouTube:
 
-[![Assista no YouTube](https://img.youtube.com/vi/SEU_VIDEO_ID_AQUI/0.jpg)](https://www.youtube.com/watch?v=SEU_VIDEO_ID_AQUI)
+[![Assista no YouTube](https://img.youtube.com/vi/WUAf_sozop0/0.jpg)](https://youtu.be/WUAf_sozop0)
 
 ---
 
