@@ -73,4 +73,4 @@ O notebook mostra todas as etapas do processamento, com visualização intermedi
 
 ## Link para o video
 
-[https://youtu.be/WUAf_sozop0](URL)
+[Link para o Video](https://youtu.be/WUAf_sozop0)
