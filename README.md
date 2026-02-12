@@ -69,3 +69,8 @@ O notebook mostra todas as etapas do processamento, com visualização intermedi
 - Morfologia matemática (abertura, fechamento)
 - Transformada de Hough para círculos
 - Análise de cor para classificação
+
+
+## Link para o video
+
+[https://youtu.be/WUAf_sozop0](URL)
